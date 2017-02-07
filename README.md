@@ -1,11 +1,5 @@
 # Online Tutor
 
-You can have a look at the following demo:
-
-http://online-tutor.byethost7.com/tutor/
-
-
-
 This is a simple tutor management system which enables teachers or management to keep track of the school/college or boards or classes or students within it.
 The below functionalities has been provided:
 
