@@ -13,7 +13,7 @@ The below functionalities has been provided:
 8. Add assessments or add a student for a particular assessment
 9. Also, a summary page describing the school or college (like total boards in the school, total students, batches, classes) 
 
-Note: This site has been built using php, bootstrap 3, html 5, jquery, javascript, etc. Not to mention this site has been built by me in just 2 days without getting any sleep starting from the overall system design to working out databases to making the UI look simple and elegant.
-Feel free to use it or go through the code or extend it. 
+Note: This site has been built using php, bootstrap 3, html 5, jquery, javascript, etc. Not to mention, I've built this site in just 2 days without any sleep, starting from the overall system design to working out database tables to making the UI look simple and elegant.
+Feel free to use it or go through the code or extend it.
 
 Cheers! 
