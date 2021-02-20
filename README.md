@@ -17,3 +17,5 @@ Note: This site has been built using php, bootstrap 3, html 5, jquery, javascrip
 Feel free to use it or go through the code or extend it.
 
 Cheers! 
+
+Update: Added the sql file used by the website.
